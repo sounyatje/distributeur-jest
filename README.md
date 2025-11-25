@@ -65,7 +65,7 @@ Nezuko réagit selon votre choix : [translate:bonne sélection] ou [translate:ma
 
 Pull requests/tickets bienvenus.
 
-## Auteurs
+## Auteur
 
 - Sounya Abattouy
 
